@@ -2,7 +2,7 @@
 
 ## Questions' Answers
 
-The [Tavernlight.pdf](https://github.com/barongello/Tavernlight/blob/main/Tavernlight.pdf) has the full descriptive steps and comments of all questions and problems faced when compiling server and client
+The [Tavernlight.pdf](https://github.com/barongello/Tavernlight/blob/main/Tavernlight.pdf) has the full walkthrough, with descriptive steps and comments of all questions and all problems faced when compiling server and client
 
 ## Informations
 
