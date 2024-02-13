@@ -1,0 +1,22 @@
+{
+    "dependencies": [
+        "boost-iostreams",
+        "boost-asio",
+        "boost-system",
+        "boost-variant",
+        "boost-lockfree",
+        "luajit",
+        "libmariadb",
+        "pugixml",
+        "cryptopp",
+        "fmt",
+        "boost-filesystem"
+    ],
+    "builtin-baseline": "8518284c18b9f47b1ccae804cb68694181b780a8",
+    "overrides": [
+        {
+            "name": "fmt",
+            "version": "8.1.1#0"
+        }
+    ]
+}
